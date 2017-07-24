@@ -23,7 +23,7 @@ Your speed increments if you keep pressing SPACE and you're rotation's sense wil
   
 ## To do
 - [ ] mass effect on speed
-- [ ] win the mass of the player you pushed out of the hexagon
+- [ ] win the mass of the player you pushed out of the rectangular area
 - [ ] leaderboard
 
 ## Can I help you?
